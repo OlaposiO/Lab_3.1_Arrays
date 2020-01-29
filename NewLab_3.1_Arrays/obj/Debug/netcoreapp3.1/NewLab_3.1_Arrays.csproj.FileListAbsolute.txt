@@ -1,0 +1,11 @@
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\obj\Debug\netcoreapp3.1\NewLab_3.1_Arrays.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\obj\Debug\netcoreapp3.1\NewLab_3.1_Arrays.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\bin\Debug\netcoreapp3.1\NewLab_3.1_Arrays.exe
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\bin\Debug\netcoreapp3.1\NewLab_3.1_Arrays.deps.json
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\bin\Debug\netcoreapp3.1\NewLab_3.1_Arrays.runtimeconfig.json
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\bin\Debug\netcoreapp3.1\NewLab_3.1_Arrays.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\bin\Debug\netcoreapp3.1\NewLab_3.1_Arrays.dll
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\bin\Debug\netcoreapp3.1\NewLab_3.1_Arrays.pdb
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\obj\Debug\netcoreapp3.1\NewLab_3.1_Arrays.dll
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\obj\Debug\netcoreapp3.1\NewLab_3.1_Arrays.pdb
+C:\Users\oomishope\source\repos\NewLab_3.1_Arrays\NewLab_3.1_Arrays\obj\Debug\netcoreapp3.1\NewLab_3.1_Arrays.csprojAssemblyReference.cache

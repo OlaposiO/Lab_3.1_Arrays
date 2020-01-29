@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NewLab_3.1_Arrays/1.0.0": {
+        "runtime": {
+          "NewLab_3.1_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewLab_3.1_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
